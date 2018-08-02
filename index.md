@@ -69,7 +69,6 @@ eventbrite: 48706597745
   Explain who your audience is.  (In particular, tell readers if the
   workshop is only open to people from a particular institution.
 {% endcomment %}
-This workshop is open to New England <a href="https://www.epa.gov/tribal/region-1-tribal-program">Tribes in EPA regions 1 and 2</a>.
 {% if page.carpentry == "swc" %}
   {% include sc/who.html %}
 {% elsif page.carpentry == "dc" %}
