@@ -7,7 +7,7 @@ country: "us"
 language: "en"
 latlng: "44.304457, -69.809235"
 humandate: "Sep 12-13, 2018"
-humantime: "9:30 am - 5:00 pm"
+humantime: "10:00 am - 5:30 pm"
 startdate: 2018-09-12
 enddate: 2018-09-13
 instructor: ["Sue McClatchy", "Julia Brown"]
