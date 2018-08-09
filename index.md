@@ -7,11 +7,11 @@ country: "us"
 language: "en"
 latlng: "44.304457, -69.809235"
 humandate: "Sep 12-13, 2018"
-humantime: "9:00 am - 4:30 pm"
+humantime: "9:30 am - 5:00 pm"
 startdate: 2018-09-12
 enddate: 2018-09-13
 instructor: ["Sue McClatchy", "Julia Brown"]
-helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Valerie Bataille", "Monique Dulac", "Ed Kim", "Ted Lavery"]
 email: ["susan.mcclatchy@jax.org", "Bataille.Valerie@epa.gov"]
 collaborative_notes: https://pad.carpentries.org/2018-09-12-new_england_tribes_USGS
 eventbrite: 48706597745
