@@ -360,18 +360,7 @@ eventbrite: 48706597745
     <div class="col-md-4">
       <h4 id="sql-windows">Windows</h4>
       <p>
-        The <a href="{{site.swc_installer}}">
-          {% if page.carpentry == "swc" %}
-          Software Carpentry
-          {% elsif page.carpentry == "dc" %}
-          Data Carpentry
-          {% elsif page.carpentry == "lc" %}
-          Library Carpentry
-          {% endif %}
-          Windows Installer
-	</a>
-        installs SQLite for Windows.
-        If you used the installer to configure nano, you don't need to run it again.
+     We will use the <a href="https://sqlitebrowser.org/">DB Browser for SQLite</a> program, which is available for all major platforms.
       </p>
     </div>
     <div class="col-md-4">
