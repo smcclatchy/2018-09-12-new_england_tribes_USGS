@@ -13,7 +13,7 @@ enddate: 2018-09-13
 instructor: ["Sue McClatchy", "Julia Brown"]
 helper: ["Valerie Bataille", "Monique Dulac", "Ed Kim", "Ted Lavery"]
 email: ["susan.mcclatchy@jax.org", "Bataille.Valerie@epa.gov"]
-collaborative_notes: https://pad.carpentries.org/2018-09-12-new_england_tribes_USGS
+collaborative_notes: https://docs.google.com/document/d/1g7G9KjHnt8E0-G4WIcK-dkDbbnwLTsXg6rjszj1FbIg/edit?usp=sharing
 eventbrite: 48706597745
 ---
 
